@@ -1,6 +1,6 @@
 my google scholar's <a href="https://scholar.google.com/citations?user=-0x1BfIAAAAJ&hl=en">page</a>.<br>
 my unimas expert's <a href="https://expert.unimas.my/profile/1396">page</a>.<br> 
-my latest (March 5th, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53ml5/IRWANDI-CV.pdf">curriculum vitae</a>.<br> 
+my latest (May 15th, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53ml5/IRWANDI-CV.pdf">curriculum vitae</a>.<br> 
 
 my research interests are computer vision, pattern recognition and educational games. i also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
