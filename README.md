@@ -82,11 +82,11 @@ PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) im
 ***
 
 ### misc / class materials
-1. A love % calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [download](https://www.dropbox.com/s/t4ud5sef7tod2zt/LoveScore.java?dl=0) <code>java class assignment</code><br>
+1. A love compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [download](https://www.dropbox.com/s/t4ud5sef7tod2zt/LoveScore.java?dl=0) <code>java class assignment</code><br>
 <a href="https://ibb.co/bXm5Mcb"><img src="https://i.ibb.co/bXm5Mcb/lovescore.png" alt="lovescore" border="0"></a>
-2. A simple memory tiles game that I wrote using pure JS for my Web-based System Dev class. [download](https://www.dropbox.com/s/k2bk52sur4s9np5/js_memory.zip?dl=0) <code>javascript class assignment</code><br>
+2. A simple memory tiles game that I wrote using JS for my Web-based System Dev class. [download](https://www.dropbox.com/s/k2bk52sur4s9np5/js_memory.zip?dl=0) <code>javascript class assignment</code><br>
 <a href="https://ibb.co/8M0BcNN"><img src="https://i.ibb.co/8M0BcNN/js.png" alt="js" border="0"></a>
-3. [freeglut - i used this instead of GLUT in my CG class to avoid requiring administrator access](http://freeglut.sourceforge.net/)
+3. [freeglut - i use this instead of GLUT in my CG class to avoid requiring administrator access](http://freeglut.sourceforge.net/)
 4. [MinGW](http://www.mingw.org/)
 5. [NeHe - the best resource site for OpenGL](http://nehe.gamedev.net/)
 6. [colah's excellent lstm tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
