@@ -8,7 +8,6 @@ my research interests are computer vision, pattern recognition and visual animal
 * won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
 * during the period of sept - dec 2018, we had successfully completed our two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worths 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worths 47,800MYR). 
 * our initial work on biometric identification of sea turtles (chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[code]</a>.<br>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100268428&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100268428" alt="SCImago Journal &amp; Country Rank"  /></a><br>
 we’re finishing up the ‘method’ paper and aiming for publication soon.
 * very honoured to represent UNIMAS at SIBEC2018 (https://sibec2018.org/). we had our MO-WALL booth set up during the two-day expo and gained valuable feedbacks/exposure.
 * won a gold medal for MO-LEARN at SIIDEX2018 (Open Category), https://www.newsarawaktribune.com.my/news/siidex-draws-707-participants/
