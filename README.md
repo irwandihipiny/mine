@@ -5,6 +5,7 @@ my latest (May 30th, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53ml5/IR
 my research interests are computer vision, pattern recognition and visual animal biometrics. i also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 ### latest news
+* joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. the team has managed to secure a 4-year research grant (on digital tourism) worths 1.6 million MYR from the Sarawak Multimedia Authority (SMA).
 * won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
 * during the period of sept - dec 2018, we had successfully completed our two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worths 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worths 47,800MYR). 
 * our initial work on biometric identification of sea turtles (chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[code]</a>.<br>
