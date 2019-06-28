@@ -19,8 +19,7 @@ we’re finishing up the ‘method’ paper and aiming for publication soon.
 <details open> 
 <summary>360 Video Viewer App</summary>
 <code>[now available on Android, fully customisable]</code><br>
-<a href="https://ibb.co/m97MKxb"><img src="https://i.ibb.co/pfp9Tmb/Screenshot-2019-06-28-at-8-53-16-AM.png" alt="Screenshot-2019-06-28-at-8-53-16-AM" border="0"></a>
-<a href="https://ibb.co/ZHW72Rh"><img src="https://i.ibb.co/4sP31wj/Screenshot-2019-06-28-at-8-54-17-AM.png" alt="Screenshot-2019-06-28-at-8-54-17-AM" border="0"></a>
+<a href="https://ibb.co/m97MKxb"><img src="https://i.ibb.co/m97MKxb/Screenshot-2019-06-28-at-8-53-16-AM.png" alt="Screenshot-2019-06-28-at-8-53-16-AM" border="0"></a> <a href="https://ibb.co/ZHW72Rh"><img src="https://i.ibb.co/ZHW72Rh/Screenshot-2019-06-28-at-8-54-17-AM.png" alt="Screenshot-2019-06-28-at-8-54-17-AM" border="0"></a>
 </details>
 <br>
 
