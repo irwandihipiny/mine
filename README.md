@@ -4,6 +4,8 @@ my latest (May 30th, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53ml5/IR
 
 my research interests are computer vision, pattern recognition and visual animal biometrics. i also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
+i can be contacted at mhihipni at unimas dot my
+
 ### latest news
 * joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. the team has managed to secure a 3-year research grant (on AR/VR solutions for heritage sites) worths 100,000 MYR from Sarawak Multimedia Authority (SMA).
 * joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. the team has managed to secure a 4-year research grant (on digital tourism) worths 1.6 million MYR from Sarawak Multimedia Authority (SMA).
