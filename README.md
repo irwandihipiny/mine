@@ -7,9 +7,9 @@ my research interests are computer vision, pattern recognition and visual animal
 i can be contacted at mhihipni at unimas dot my
 
 ### latest news
-* secured a Cross-Disciplinary Research Grant worths 29,600 MYR: F08/CDRG/1820/2019: Automated Skill Determination from Egocentric Video Containing Gaze Data. one MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
-* joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. the team secured a 3-year research grant (on AR/VR solutions for heritage sites) worths 100,000 MYR from Sarawak Multimedia Authority (SMA).
-* joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. the team secured a 4-year research grant (on digital tourism) worths 1.6 million MYR from Sarawak Multimedia Authority (SMA).
+* secured a Cross-Disciplinary Research Grant worth 29,600 MYR: F08/CDRG/1820/2019: Automated Skill Determination from Egocentric Video Containing Gaze Data. one MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
+* joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. the team secured a 3-year research grant (on AR/VR solutions for heritage sites) worth 100,000 MYR from Sarawak Multimedia Authority (SMA).
+* joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. the team secured a 4-year research grant (on digital tourism) worth 1.6 million MYR from Sarawak Multimedia Authority (SMA).
 * won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
 * during the period of sept - dec 2018, we had successfully completed our two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worths 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worths 47,800MYR). 
 * our initial work on biometric identification of sea turtles (chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[code]</a>.<br>
