@@ -31,7 +31,7 @@ we’re finishing up the ‘method’ paper and aiming for publication soon.
 <details open> 
 <summary>mo-learn©: learning through motion (available for purchase)</summary>
 <code>[a set of 3 educational games with touch-free interface.]</code><br>
-<a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">more details</a>
+<a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">more details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">download demo</a>
 <br>
 <a href="https://ibb.co/diGyVV"><img src="https://image.ibb.co/bR6Mjq/molearn.png" alt="MOLEARN" border="0"></a>
 </details>
