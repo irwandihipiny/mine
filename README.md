@@ -70,6 +70,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 ### Current PhDs/MSces
 * Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
 * Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
+* Muhammad Payandenick, MSc, "TBA",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
