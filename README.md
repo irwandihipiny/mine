@@ -93,6 +93,6 @@ PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) im
 3. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
 4. [MinGW](http://www.mingw.org/)
 5. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
-6. [Colah's excellent lstm tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+6. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 7. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 ***
