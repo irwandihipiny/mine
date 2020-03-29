@@ -68,13 +68,13 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 ***
 
 ### Current PhDs/MSces
-* Silvia Joseph, PhD, "Iban's plaited mat motifs recognition using invariant image features"
-* Marcella Peter, MSc, "facial expression synthesis using kernel approach",  <code>co-sup w/ dr jacey-lynn minoi</code>
+* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
+* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
 ### previous PhDs/MSces/MAITs
-* Silvia Joseph, MAIT, "Unsupervised classification of intrusive igneous rock thin section images using edge detection and colour analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
+* Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 
 ***
 
@@ -84,14 +84,14 @@ PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) im
 
 ***
 
-### Misc / Vlass materials
-1. A love compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [download](https://www.dropbox.com/s/w3tuo6zvv0jw2lu/LoveScore.java?dl=0) <code>java class assignment</code><br>
+### Misc / Class materials
+1. A love compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [Download](https://www.dropbox.com/s/w3tuo6zvv0jw2lu/LoveScore.java?dl=0) <code>java class assignment</code><br>
 <a href="https://ibb.co/bXm5Mcb"><img src="https://i.ibb.co/bXm5Mcb/lovescore.png" alt="lovescore" border="0"></a>
-2. A simple memory tiles game that I wrote using JS for my Web-based System Dev class. [download](https://www.dropbox.com/s/k2bk52sur4s9np5/js_memory.zip?dl=0) <code>javascript class assignment</code><br>
+2. A simple memory tiles game that I wrote using JS for my Web-based System Development class. [Download](https://www.dropbox.com/s/k2bk52sur4s9np5/js_memory.zip?dl=0) <code>javascript class assignment</code><br>
 <a href="https://ibb.co/8M0BcNN"><img src="https://i.ibb.co/8M0BcNN/js.png" alt="js" border="0"></a>
-3. [Freeglut - i use this instead of GLUT in my CG class to avoid requiring administrator access](http://freeglut.sourceforge.net/)
+3. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
 4. [MinGW](http://www.mingw.org/)
-5. [NeHe - the best resource site for OpenGL](http://nehe.gamedev.net/)
+5. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
 6. [Colah's excellent lstm tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-7. [An excellent yt video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+7. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 ***
