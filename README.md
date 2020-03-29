@@ -2,6 +2,8 @@ My Google Scholar's <a href="https://scholar.google.com/citations?user=-0x1BfIAA
 My UNIMAS Expert's <a href="https://expert.unimas.my/profile/1396">page</a>.<br> 
 My most recent (Aug 22nd, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53ml5/IRWANDI-CV.pdf">curriculum vitae</a>.<br> 
 
+\(☞ﾟ∀ﾟ\)☞
+
 My research interests are Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 I can be contacted at mhihipni at unimas dot my
