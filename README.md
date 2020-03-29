@@ -11,8 +11,8 @@ I can be contacted at mhihipni at unimas dot my
 * Joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. The team secured a 3-year research grant (on AR/VR solutions for heritage sites) worth 100,000 MYR from Sarawak Multimedia Authority (SMA).
 * Joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. The team secured a 4-year research grant (on digital tourism) worth 1.6 million MYR from Sarawak Multimedia Authority (SMA).
 * Won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
-* During the period of sept - dec 2018, we had successfully completed two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worth 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worth 47,800MYR). 
-* Our initial work on biometric identification of sea turtles (chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[code]</a>.<br>
+* During the period of Sept - Dec 2018, we had successfully completed two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worth 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worth 47,800MYR). 
+* Our initial work on biometric identification of sea turtles (Chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[Dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[Code]</a>.<br>
 We’re finishing up the ‘method’ paper and aiming for publication soon.
 * Represented UNIMAS at SIBEC2018 (https://sibec2018.org/). We had our MO-WALL booth set up during the two-day expo and gained valuable feedbacks/exposure.
 * Won a gold medal for MO-LEARN at SIIDEX2018 (Open Category), https://www.newsarawaktribune.com.my/news/siidex-draws-707-participants/
@@ -23,7 +23,7 @@ We’re finishing up the ‘method’ paper and aiming for publication soon.
 <details open> 
 <summary>MO-SECURE</summary>
 <code>[Vision-based Vehicle Entry Control System]</code><br>
-<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">clip1</a><br>
+<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Clip1</a><br>
 <a href="https://ibb.co/kK3A2T"><img src="https://image.ibb.co/gpzTp8/vlcsnap_00001.png" alt="vlcsnap_00001" border="0"></a>
 </details>
 <br>
@@ -50,7 +50,7 @@ We’re finishing up the ‘method’ paper and aiming for publication soon.
 <details open> 
 <summary>Biometric identification of sea turtles (Chelonia mydas)</summary>
 <code>Hipiny, I., Ujir, H., Mujahid, A., and Yahya, N.K. (2018), Towards Automated Biometric
-Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">link</a>.</code><br>
+Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>.</code><br>
 <code><a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>,</code>
 <code><a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">Our code</a></code>
 <br><br>
@@ -60,7 +60,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 <details open> 
 <summary>Activity recognition using gaze</summary>
-<code>I worked on modeling activities as a record of fixated visual landmarks, i.e., gaze regions (<a href="https://youtu.be/T9IAq90HNU0">see video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The gaze regions can be used to prime for location of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a> and <a href="https://www.dropbox.com/s/xvnhub6qgtiagt2/thesis.pdf">here</a>. </code><br>
+<code>I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions can be used to prime for location of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a> and <a href="https://www.dropbox.com/s/xvnhub6qgtiagt2/thesis.pdf">here</a>. </code><br>
 <a href="https://ibb.co/ThDxK1Q"><img src="https://i.ibb.co/6sc7v8K/gaze1.png" height="75%" width="75%" alt="gaze1" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="60%" width="60%" alt="gaze2" border="0"></a>
 </details>
