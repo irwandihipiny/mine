@@ -18,7 +18,7 @@ I can be contacted at mhihipni at unimas dot my
 We’re finishing up the ‘method’ paper and aiming for publication soon.
 * Represented UNIMAS at SIBEC2018 (https://sibec2018.org/). We had our MO-WALL booth set up during the two-day expo and gained valuable feedbacks/exposure.
 * Won a gold medal for MO-LEARN at SIIDEX2018 (Open Category), https://www.newsarawaktribune.com.my/news/siidex-draws-707-participants/
-* Won a gold medal for MO-WALL at INTEX2018 (Engineering & Technology Category), http://www.rimc.unimas.my/images/RIMC/Intex/InTEX18_Results.pdf
+* Won a gold medal for MO-WALL at INTEX2018 (Engineering & Technology Category)
 ***
 
 ### Stuffs i'd completed/currently working on:
