@@ -4,24 +4,23 @@ My most recent (Aug 22nd, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53m
 
 \(☞ﾟ∀ﾟ\)☞
 
-My research interests are Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
+My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 I can be contacted at mhihipni at unimas dot my
 
 ### Latest news
-* Secured a Cross-Disciplinary Research Grant worth 29,600 MYR: F08/CDRG/1820/2019: Automated Skill Determination from Egocentric Video Containing Gaze Data. One MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
+* Secured a Cross-Disciplinary Research Grant worth 29,600 MYR: Automated Skill Determination from Egocentric Video Containing Gaze Data. One MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
 * Joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. The team secured a 3-year research grant (on AR/VR solutions for heritage sites) worth 100,000 MYR from Sarawak Multimedia Authority (SMA).
 * Joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. The team secured a 4-year research grant (on digital tourism) worth 1.6 million MYR from Sarawak Multimedia Authority (SMA).
 * Won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
 * During the period of Sept - Dec 2018, we had successfully completed two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worth 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worth 47,800MYR). 
-* Our initial work on biometric identification of sea turtles (Chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[Dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[Code]</a>.<br>
-We’re finishing up the ‘method’ paper and aiming for publication soon.
-* Represented UNIMAS at SIBEC2018 (https://sibec2018.org/). We had our MO-WALL booth set up during the two-day expo and gained valuable feedbacks/exposure.
+* Our initial work on biometric identification of sea turtles (Chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[Dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[Code]</a>.
+* Represented UNIMAS at SIBEC2018 (https://sibec2018.org/).
 * Won a gold medal for MO-LEARN at SIIDEX2018 (Open Category), https://www.newsarawaktribune.com.my/news/siidex-draws-707-participants/
 * Won a gold medal for MO-WALL at INTEX2018 (Engineering & Technology Category)
 ***
 
-### Stuffs i'd completed/currently working on:
+### Projects I'd completed/currently working on:
 <details open> 
 <summary>MO-SECURE</summary>
 <code>[Vision-based Vehicle Entry Control System]</code><br>
