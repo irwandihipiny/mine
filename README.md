@@ -70,12 +70,12 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ### Current PhDs/MSces
 * Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
-* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Muhammad Payandenick, MSc, "TBA",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
 ### Previous PhDs/MSces/MAITs
+* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 
 ***
