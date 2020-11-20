@@ -8,6 +8,8 @@ My research interests are, but not limited to, Computer vision, Pattern recognit
 
 I can be contacted at mhihipni at unimas dot my
 
+Interested in pursuing an Msc or a PhD? Drop me an email (see above)
+
 ### Latest news
 * Secured a Cross-Disciplinary Research Grant worth 29,600 MYR: Automated Skill Determination from Egocentric Video Containing Gaze Data. One MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
 * Joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. The team secured a 3-year research grant (on AR/VR solutions for heritage sites) worth 100,000 MYR from Sarawak Multimedia Authority (SMA).
