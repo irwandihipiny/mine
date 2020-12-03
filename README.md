@@ -40,7 +40,7 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 </details>
 <br>
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://giphy.com/gifs/kgfmemudspmq6XV0UV/html5)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 <details open> 
 <summary>MO-WALL© (available for purchase)</summary>
