@@ -39,9 +39,7 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 <a href="https://ibb.co/diGyVV"><img src="https://image.ibb.co/bR6Mjq/molearn.png" alt="MOLEARN" border="0"></a>
 </details>
 <br>
-
-[![Test](https://giphy.com/gifs/kgfmemudspmq6XV0UV/html5)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
+[![More details](https://giphy.com/gifs/kgfmemudspmq6XV0UV/html5)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
 
 <details open> 
 <summary>MO-WALL© (available for purchase)</summary>
