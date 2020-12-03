@@ -12,8 +12,7 @@ I can be contacted at mhihipni at unimas dot my
 <details open> 
 <summary>MO-SECURE</summary>
 <code>[Vision-based Vehicle Entry Control System]</code><br>
-<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Clip1</a><br>
-<a href="https://ibb.co/kK3A2T"><img src="https://image.ibb.co/gpzTp8/vlcsnap_00001.png" alt="vlcsnap_00001" border="0"></a>
+<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Clip1</a>
 </details>
 <br>
 <details open> 
