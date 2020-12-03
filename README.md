@@ -29,7 +29,6 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 <a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Clip1</a><br>
 <a href="https://ibb.co/kK3A2T"><img src="https://image.ibb.co/gpzTp8/vlcsnap_00001.png" alt="vlcsnap_00001" border="0"></a>
 </details>
-<br>
 
 <details open> 
 <summary>MO-LEARN©: Learning Through Motion (available for purchase)</summary>
@@ -41,12 +40,9 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 <details open> 
 <summary>MO-WALL© (available for purchase)</summary>
 <code>[A Touch-free Info-kiosk Software.]</code>
-<br>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205">More details</a>
-<br>
-<a href="https://ibb.co/fmx5AV"><img src="https://image.ibb.co/dDMXqV/mowall.png" alt="MOWALL" border="0"></a>
 </details>
-<br>
+[![Demo CountPages alpha](https://j.gifs.com/Gv3y7Q.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
 
 <details open> 
 <summary>Biometric identification of sea turtles (Chelonia mydas)</summary>
