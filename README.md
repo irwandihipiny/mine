@@ -34,7 +34,6 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 <details open> 
 <summary>MO-LEARN©: Learning Through Motion (available for purchase)</summary>
 <code>[A set of 3 educational games with touch-free interface.]</code><br>
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">Download demo</a>
 <br>
 <a href="https://ibb.co/diGyVV"><img src="https://image.ibb.co/bR6Mjq/molearn.png" alt="MOLEARN" border="0"></a>
