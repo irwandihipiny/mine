@@ -38,6 +38,7 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 <br>
 <a href="https://ibb.co/diGyVV"><img src="https://image.ibb.co/bR6Mjq/molearn.png" alt="MOLEARN" border="0"></a>
 </details>
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 <br>
 
 <details open> 
