@@ -36,8 +36,6 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 <code>[A set of 3 educational games with touch-free interface.]</code><br>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">Download demo</a>
 </details>
-<br>
-
 [![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
 
 <details open> 
