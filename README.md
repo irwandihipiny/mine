@@ -6,7 +6,7 @@ My research interests are, but not limited to, Computer vision, Pattern recognit
 
 I can be contacted at mhihipni at unimas dot my
 
-Interested in pursuing an Msc or a PhD? Drop me an email (see above)
+Interested in pursuing an Msc or a PhD? Drop me an email
 
 ### Projects:
 <details open> 
@@ -23,7 +23,7 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 [![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
 
 <details open> 
-<summary>MO-WALL© (available for purchase)</summary>
+<summary>MO-WALL©: Interactive Kiosk with Face Detection (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205">More details</a>
 </details>
 [![Demo CountPages alpha](https://j.gifs.com/Gv3y7Q.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
@@ -48,13 +48,13 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ***
 
-### Current Postgraduates
+### Current Postgrads
 * Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
 * Muhammad Payandenick, MSc, "TBA",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
-### Previous Postgraduates
+### Previous Postgrads
 * Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 
