@@ -10,18 +10,6 @@ I can be contacted at mhihipni at unimas dot my
 
 Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 
-### Latest news
-* Secured a Cross-Disciplinary Research Grant worth 29,600 MYR: Automated Skill Determination from Egocentric Video Containing Gaze Data. One MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
-* Joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. The team secured a 3-year research grant (on AR/VR solutions for heritage sites) worth 100,000 MYR from Sarawak Multimedia Authority (SMA).
-* Joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. The team secured a 4-year research grant (on digital tourism) worth 1.6 million MYR from Sarawak Multimedia Authority (SMA).
-* Won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
-* During the period of Sept - Dec 2018, we had successfully completed two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worth 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worth 47,800MYR). 
-* Our initial work on biometric identification of sea turtles (Chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[Dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[Code]</a>.
-* Represented UNIMAS at SIBEC2018 (https://sibec2018.org/).
-* Won a gold medal for MO-LEARN at SIIDEX2018 (Open Category), https://www.newsarawaktribune.com.my/news/siidex-draws-707-participants/
-* Won a gold medal for MO-WALL at INTEX2018 (Engineering & Technology Category)
-***
-
 ### Projects I'd completed/currently working on:
 <details open> 
 <summary>MO-SECURE</summary>
@@ -62,6 +50,18 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="50%" width="50%" alt="gaze2" border="0"></a>
 </details>
 
+***
+
+### Latest news
+* Secured a Cross-Disciplinary Research Grant worth 29,600 MYR: Automated Skill Determination from Egocentric Video Containing Gaze Data. One MSc position <a href="https://www.facebook.com/photo.php?fbid=358465948413829&set=a.221821052078320&type=3&theater">available</a>.
+* Joined -as a co researcher- a cross-disciplinary research team led by Dr Dayang Hanani Abang Ibrahim, UNIMAS. The team secured a 3-year research grant (on AR/VR solutions for heritage sites) worth 100,000 MYR from Sarawak Multimedia Authority (SMA).
+* Joined -as a co researcher- a cross-disciplinary research team led by Prof Dr Wang Yin Chai, UNIMAS. The team secured a 4-year research grant (on digital tourism) worth 1.6 million MYR from Sarawak Multimedia Authority (SMA).
+* Won a bronze medal for MO-WALL at MTE2019, http://mte.org.my/
+* During the period of Sept - Dec 2018, we had successfully completed two research grants: UNIMAS-SGS (_Passive Biometric Identification of Sea Turtles (Chelonia Mydas)_, worth 24,550MYR) and MOHE-RACE (_Background Subtraction in Egocentric Videos Depicting Activities of Daily Living_, worth 47,800MYR). 
+* Our initial work on biometric identification of sea turtles (Chelonia mydas) was published in Journal of ICT Research and Applications, 12(3), 256-266, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">doi:10.5614/itbj.ict.res.appl.2018.12.3.4</a>. <a href="https://ir.unimas.my/22902/">[Dataset]</a>, <a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">[Code]</a>.
+* Represented UNIMAS at SIBEC2018 (https://sibec2018.org/).
+* Won a gold medal for MO-LEARN at SIIDEX2018 (Open Category), https://www.newsarawaktribune.com.my/news/siidex-draws-707-participants/
+* Won a gold medal for MO-WALL at INTEX2018 (Engineering & Technology Category)
 ***
 
 ### Current PhDs/MSces
