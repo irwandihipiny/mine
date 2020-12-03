@@ -1,7 +1,5 @@
 My Google Scholar's <a href="https://scholar.google.com/citations?user=-0x1BfIAAAAJ&hl=en">page</a>.<br>
 My UNIMAS Expert's <a href="https://expert.unimas.my/profile/1396">page</a>.<br> 
-My most recent (Aug 22nd, 2019) <a href="https://www.dropbox.com/s/4pw82if4wh53ml5/IRWANDI-CV.pdf">curriculum vitae</a>.<br> 
-
 \(☞ﾟ∀ﾟ\)☞
 
 My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
@@ -10,7 +8,7 @@ I can be contacted at mhihipni at unimas dot my
 
 Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 
-### Projects I'd completed/currently working on:
+### Projects:
 <details open> 
 <summary>MO-SECURE</summary>
 <code>[Vision-based Vehicle Entry Control System]</code><br>
@@ -20,14 +18,12 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 
 <details open> 
 <summary>MO-LEARN©: Learning Through Motion (available for purchase)</summary>
-<code>[A set of 3 educational games with touch-free interface.]</code><br>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">Download demo</a>
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
 
 <details open> 
 <summary>MO-WALL© (available for purchase)</summary>
-<code>[A Touch-free Info-kiosk Software.]</code>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205">More details</a>
 </details>
 [![Demo CountPages alpha](https://j.gifs.com/Gv3y7Q.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
@@ -52,19 +48,19 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ***
 
-### Current PhDs/MSces
+### Current Postgraduates
 * Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
 * Muhammad Payandenick, MSc, "TBA",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
-### Previous PhDs/MSces/MAITs
+### Previous Postgraduates
 * Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 
 ***
 
-### My datasets
+### Datasets
 PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas).
 [<a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>]
 
