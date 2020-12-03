@@ -40,7 +40,7 @@ Interested in pursuing an Msc or a PhD? Drop me an email (see above)
 </details>
 <br>
 
-[![Demo CountPages alpha](https://j.gifs.com/Mw3OXQ.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 
 <details open> 
