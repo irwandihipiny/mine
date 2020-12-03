@@ -4,9 +4,9 @@ My UNIMAS Expert's <a href="https://expert.unimas.my/profile/1396">page</a>.<br>
 
 My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
-I can be contacted at mhihipni at unimas dot my
+Interested in pursuing an Msc or a PhD? Drop me an email.
 
-Interested in pursuing an Msc or a PhD? Drop me an email
+I can be contacted at mhihipni at unimas dot my
 
 ### Projects:
 <details open> 
@@ -34,7 +34,6 @@ Interested in pursuing an Msc or a PhD? Drop me an email
 Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>.</code><br>
 <code><a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>,</code>
 <code><a href="https://www.dropbox.com/s/z1j5vedueikawjb/TURTLES.zip">Our code</a></code>
-<br><br>
 <a href="https://ibb.co/fwnv2T"><img src="https://image.ibb.co/d8kR98/2.png" alt="2" border="0"></a>
 </details>
 <br>
