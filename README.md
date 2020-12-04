@@ -10,8 +10,7 @@ I can be contacted at mhihipni at unimas dot my
 
 ### Projects:
 <details open> 
-<summary>MO-SECURE</summary>
-<code>[Vision-based Vehicle Entry Control System]</code><br>
+<summary>MO-SECURE: Vision-based Vehicle Entry Control System</summary>
 <a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Clip1</a>
 </details>
 <br>
