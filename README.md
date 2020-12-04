@@ -63,8 +63,8 @@ PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) im
 
 ***
 
-### Misc / Class materials
-1. A love compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [Download](https://www.dropbox.com/s/w3tuo6zvv0jw2lu/LoveScore.java?dl=0) <code>java class assignment</code><br>
+### Miscellaneous
+1. A compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [Download](https://www.dropbox.com/s/w3tuo6zvv0jw2lu/LoveScore.java?dl=0) <code>java class assignment</code><br>
 2. TBA
 3. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
 4. [MinGW](http://www.mingw.org/)
