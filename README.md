@@ -11,9 +11,10 @@ I can be contacted at mhihipni at unimas dot my
 ### Projects:
 <details open> 
 <summary>MO-SECURE: Vision-based Vehicle Entry Control System</summary>
-<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Clip1</a>
 </details>
-<br>
+[![Demo CountPages alpha](https://j.gifs.com/k8pRqK.gif)](https://www.youtube.com/watch?v=6MnjqZXU-bA)
+
+
 <details open> 
 <summary>MO-LEARN©: Learning Through Motion (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">Download demo</a>
