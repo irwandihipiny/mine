@@ -1,7 +1,3 @@
-My Google Scholar's <a href="https://scholar.google.com/citations?user=-0x1BfIAAAAJ&hl=en">page</a>.<br>
-My UNIMAS Expert's <a href="https://expert.unimas.my/profile/1396">page</a>.<br> 
-\(☞ﾟ∀ﾟ\)☞
-
 My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 Interested in pursuing an Msc or a PhD? Drop me an email.
