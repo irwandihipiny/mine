@@ -7,8 +7,8 @@ I can be contacted at mhihipni at unimas dot my
 ### Projects:
 <details open> 
 <summary>MO-SECURE: Vision-based Vehicle Entry Control System</summary>
+<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Demo</a>
 </details>
-[![Demo CountPages alpha](https://j.gifs.com/k8pRqK.gif)](https://www.youtube.com/watch?v=6MnjqZXU-bA)
 
 
 <details open> 
