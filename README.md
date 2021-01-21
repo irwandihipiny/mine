@@ -26,7 +26,6 @@ My research interests are, but not limited to, Computer vision, Pattern recognit
 <code>Hipiny, I., Ujir, H., Mujahid, A., and Yahya, N.K. (2018), Towards Automated Biometric
 Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>,</code>
 <code><a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>,</code>
-<a href="https://ibb.co/fwnv2T"><img src="https://image.ibb.co/d8kR98/2.png" alt="2" border="0"></a>
 <a href="https://ibb.co/P1Q7WC1"><img src="https://i.ibb.co/c2LG8T2/Picture-1.png" alt="Picture-1" border="0"></a>
 </details>
 <br>
@@ -34,6 +33,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 <details open> 
 <summary>Activity recognition using gaze</summary>
 <code>I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions can be used to prime for location of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a> and <a href="https://www.dropbox.com/s/xvnhub6qgtiagt2/thesis.pdf">here</a>. </code><br>
+<a href="https://ibb.co/Byg06gW"><img src="https://i.ibb.co/YctHdtn/overview.png" alt="overview" border="0"></a>
 <a href="https://ibb.co/ThDxK1Q"><img src="https://i.ibb.co/6sc7v8K/gaze1.png" height="80%" width="80%" alt="gaze1" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="70%" width="70%" alt="gaze2" border="0"></a>
 </details>
