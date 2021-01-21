@@ -1,8 +1,8 @@
 My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
->> Interested in pursuing an Msc or a PhD? Drop me an email.
+> Interested in pursuing an Msc or a PhD? Drop me an email.
 
->> I can be contacted at mhihipni at unimas dot my
+> I can be contacted at mhihipni at unimas dot my
 
 ### Projects:
 <details open> 
