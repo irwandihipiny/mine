@@ -1,7 +1,6 @@
 My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 > Interested in pursuing an Msc or a PhD? Drop me an email.
-
 > I can be contacted at mhihipni at unimas dot my
 
 ### Projects:
@@ -9,7 +8,6 @@ My research interests are, but not limited to, Computer vision, Pattern recognit
 <summary>MO-SECURE: Vision-based Vehicle Entry Control System</summary>
 <a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Demo</a>
 </details>
-
 
 <details open> 
 <summary>MO-LEARN©: Learning Through Motion (available for purchase)</summary>
@@ -47,7 +45,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ***
 
-### Previous Postgrads
+### Graduated
 * Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 
@@ -61,10 +59,9 @@ PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) im
 
 ### Miscellaneous
 1. A compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [Download](https://www.dropbox.com/s/w3tuo6zvv0jw2lu/LoveScore.java?dl=0) <code>java class assignment</code><br>
-2. TBA
-3. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
-4. [MinGW](http://www.mingw.org/)
-5. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
-6. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-7. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+2. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
+3. [MinGW](http://www.mingw.org/)
+4. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
+5. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+6. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 ***
