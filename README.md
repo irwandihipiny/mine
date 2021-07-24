@@ -50,7 +50,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 * Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 * Mohd Khairulazwan Bin Sulaiman, MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
-* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", Accepted in The 8th International Conference on Electrical Engineering and Informatics.
+* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", <code>- Accepted in The 8th International Conference on Electrical Engineering and Informatics 2021.</code>
 
 ***
 
