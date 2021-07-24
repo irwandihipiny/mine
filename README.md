@@ -4,16 +4,16 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 > I can be contacted at mhihipni at unimas dot my
 
 ### Current Postgraduates
-* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features", <code>1. "Performance Evaluation of SIFT Against Common Image Deformations on Iban Plaited Mat Motif Images", Accepted for publication in SCOPUS Q3 Indonesian Journal of Electrical Engineering and Computer Science (p-ISSN: 2502-4752, e-ISSN: 2502-4760)</code> 
+* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features", <code>- Silvia's initial work, i.e., "Performance Evaluation of SIFT Against Common Image Deformations on Iban Plaited Mat Motif Images", has been accepted for publication in SCOPUS Q3 Indonesian Journal of Electrical Engineering and Computer Science (p-ISSN: 2502-4752, e-ISSN: 2502-4760)</code> 
 * Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
 ### Graduated
-* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
+* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>- Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
 * Mohd Khairulazwan Bin Sulaiman, MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
-* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", <code>- Accepted in The 8th International Conference on Electrical Engineering and Informatics 2021.</code>
+* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", <code>- The proceeding paper has been accepted in The 8th International Conference on Electrical Engineering and Informatics 2021.</code>
 
 ***
 
@@ -34,7 +34,7 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 <summary>Biometric identification of sea turtles (Chelonia mydas)</summary>
 <code>Hipiny, I., Ujir, H., Mujahid, A., and Yahya, N.K. (2018), Towards Automated Biometric
 Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>,</code>
-<code><a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>,</code>
+<code><a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>,</code>
 <a href="https://ibb.co/P1Q7WC1"><img src="https://i.ibb.co/c2LG8T2/Picture-1.png" alt="Picture-1" border="0"></a>
 </details>
 <br>
@@ -50,8 +50,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 ***
 
 ### Datasets
-PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas).
-[<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>]
+PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas), captured at Pandan Beach, Lundu, Sarawak.[<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>]
 
 ***
 
