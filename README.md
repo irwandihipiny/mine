@@ -4,7 +4,7 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 > I can be contacted at mhihipni at unimas dot my
 
 ### Current Postgraduates
-* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features", <code>"Performance Evaluation of SIFT Against Common Image Deformations on Iban Plaited Mat Motif Images", Accepted for publication in Indonesian Journal of Electrical Engineering and Computer Science SCOPUS Q3 (p-ISSN: 2502-4752, e-ISSN: 2502-4760)</code> 
+* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features", <code>1. "Performance Evaluation of SIFT Against Common Image Deformations on Iban Plaited Mat Motif Images", Accepted for publication in SCOPUS Q3 Indonesian Journal of Electrical Engineering and Computer Science (p-ISSN: 2502-4752, e-ISSN: 2502-4760)</code> 
 * Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
@@ -20,7 +20,7 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 ### Projects:
 <details open> 
 <summary>MO-LEARN©: Kinaesthetic Learning (available for purchase)</summary>
-<a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">Download demo</a>
+<a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>,
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
 
@@ -41,7 +41,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 <details open> 
 <summary>Activity recognition using gaze</summary>
-<code>I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions can be used to prime for location of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a> and <a href="https://www.dropbox.com/s/xvnhub6qgtiagt2/thesis.pdf">here</a>. </code><br>
+<code>I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions can be used to prime for location of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a>. </code><br>
 <a href="https://ibb.co/Byg06gW"><img src="https://i.ibb.co/YctHdtn/overview.png" height="80%" width="80%" alt="overview" border="0"></a>
 <a href="https://ibb.co/ThDxK1Q"><img src="https://i.ibb.co/6sc7v8K/gaze1.png" height="90%" width="90%" alt="gaze1" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="85%" width="85%" alt="gaze2" border="0"></a>
@@ -51,13 +51,13 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ### Datasets
 PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas).
-[<a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>]
+[<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>]
 
 ***
 
 ### Miscellaneous
-1. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
-2. [MinGW](http://www.mingw.org/)
+1. [Freeglut - I use this instead of GLUT in my TMT2033 Computer Graphics' class](http://freeglut.sourceforge.net/)
+2. [MinGW](http://mingw-w64.org/doku.php)
 3. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
 4. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 5. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
