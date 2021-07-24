@@ -1,22 +1,31 @@
-My research interests are, but not limited to, Computer vision, Pattern recognition and Animal Re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
+My research interests are (but not limited to) Computer vision, Pattern classification and Animal Re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 > Interested in pursuing an Msc or a PhD? Drop me an email.
-> I can be contacted at mhihipni \at\ unimas dot my
+> I can be contacted at mhihipni at unimas dot my
+
+### Current Postgraduates
+* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features", <code>"Performance Evaluation of SIFT Against Common Image Deformations on Iban Plaited Mat Motif Images", Accepted for publication in Indonesian Journal of Electrical Engineering and Computer Science SCOPUS Q3 (p-ISSN: 2502-4752, e-ISSN: 2502-4760)</code> 
+* Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
+
+***
+
+### Graduated
+* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
+* Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
+* Mohd Khairulazwan Bin Sulaiman, MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
+* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", <code>- Accepted in The 8th International Conference on Electrical Engineering and Informatics 2021.</code>
+
+***
 
 ### Projects:
 <details open> 
-<summary>MO-SECURE: Vision-based Vehicle Entry Control System</summary>
-<a href="https://www.youtube.com/watch?v=6MnjqZXU-bA">Demo</a>
-</details>
-
-<details open> 
-<summary>MO-LEARN©: Learning Through Motion (available for purchase)</summary>
+<summary>MO-LEARN©: Kinaesthetic Learning (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>, <a href="https://www.dropbox.com/s/2uc5h71ygyyxivb/MOLEARN-Demo.zip?dl=0">Download demo</a>
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
 
 <details open> 
-<summary>MO-WALL©: Interactive Kiosk with Face Detection (available for purchase)</summary>
+<summary>MO-WALL©: Interactive Kiosk with Gesture Recognition (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205">More details</a>
 </details>
 [![Demo CountPages alpha](https://j.gifs.com/Gv3y7Q.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
@@ -40,20 +49,6 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ***
 
-### Current Postgrads
-* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
-* Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
-
-***
-
-### Graduated
-* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
-* Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
-* Mohd Khairulazwan Bin Sulaiman, MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
-* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", <code>- Accepted in The 8th International Conference on Electrical Engineering and Informatics 2021.</code>
-
-***
-
 ### Datasets
 PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas).
 [<a href="https://ir.unimas.my/22902/">PANDAN-CHELOMY Dataset</a>]
@@ -61,10 +56,9 @@ PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) im
 ***
 
 ### Miscellaneous
-1. A compatibility calculator program that I wrote for my Java class (accepts two names, generate a compatibility score, i.e., love %) ... a fun string manipulation activity for students. [Download](https://www.dropbox.com/s/w3tuo6zvv0jw2lu/LoveScore.java?dl=0) <code>java class assignment</code><br>
-2. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
-3. [MinGW](http://www.mingw.org/)
-4. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
-5. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-6. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+1. [Freeglut - I use this instead of GLUT in my Computer Graphics class](http://freeglut.sourceforge.net/)
+2. [MinGW](http://www.mingw.org/)
+3. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
+4. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+5. [An excellent Youtube video on JPEG compression, DCT](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 ***
