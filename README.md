@@ -42,7 +42,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 ### Current Postgrads
 * Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
-* Muhammad Payandenick, MSc, "TBA",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
+* Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 
 ***
 
