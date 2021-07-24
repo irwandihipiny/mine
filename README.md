@@ -1,7 +1,7 @@
-My research interests are, but not limited to, Computer vision, Pattern recognition and Visual animal biometrics. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
+My research interests are, but not limited to, Computer vision, Pattern recognition and Animal Re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 > Interested in pursuing an Msc or a PhD? Drop me an email.
-> I can be contacted at mhihipni at unimas dot my
+> I can be contacted at mhihipni \at\ unimas dot my
 
 ### Projects:
 <details open> 
@@ -43,14 +43,14 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 ### Current Postgrads
 * Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
 * Muhammad Payandenick, MSc, "TBA",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
-* Mohd Khairulazwan Bin Sulaiman, MITM
-* Elizabeth Ubam, MITM
 
 ***
 
 ### Graduated
 * Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach",  <code>Co-sup w/ Dr Jacey-Lynn Minoi</code>
 * Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] <code>- Now at Dept. of Minerals and Geoscience, Malaysia.</code>
+* Mohd Khairulazwan Bin Sulaiman, MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
+* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens", Accepted in The 8th International Conference on Electrical Engineering and Informatics.
 
 ***
 
