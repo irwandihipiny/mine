@@ -4,8 +4,7 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 > I can be contacted at mhihipni at unimas dot my
 
 ### Current Postgraduates
-* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features",
-> Silvia's initial work, i.e., "Performance Evaluation of SIFT Against Common Image Deformations on Iban Plaited Mat Motif Images", has been accepted for publication in SCOPUS Q3 Indonesian Journal of Electrical Engineering and Computer Science (p-ISSN: 2502-4752, e-ISSN: 2502-4760) 
+* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
 * Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach"
 > Co-sup w/ Dr Jacey-Lynn Minoi
 
