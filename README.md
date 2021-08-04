@@ -1,20 +1,19 @@
 My research interests are (but not limited to) Computer vision, Pattern classification and Animal Re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 > Interested in pursuing an Msc or a PhD? Drop me an email.
-> I can be contacted at mhihipni at unimas dot my
+> at mhihipni at unimas dot my
 
 ### Current Postgraduates
-* Silvia Joseph, PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
-* Muhammad Payandenick, MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach"
-> Co-sup w/ Dr Jacey-Lynn Minoi
+* Joseph, S., PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
+* Payandenick, M., MSc, "Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach", - Co-sup w/ Dr Jacey-Lynn Minoi
 
 ***
 
 ### Graduated
-* Marcella Peter, MSc, "Facial Expression Synthesis using Kernel Approach", - Co-sup w/ Dr Jacey-Lynn Minoi
-* Silvia Joseph, MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] - Now at Dept. of Minerals and Geoscience, Malaysia.</code>
-* Mohd Khairulazwan Bin Sulaiman, MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
-* Elizabeth Ubam, MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens".
+* Peter, M., MSc, "Facial Expression Synthesis using Kernel Approach", - Co-sup w/ Dr Jacey-Lynn Minoi
+* Joseph, S., MAIT, "Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis", [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>] - Now at Dept. of Minerals and Geoscience, Malaysia.</code>
+* Sulaiman, M.K., MITM, "Requirement Analysis of e-Learning Platform for Dyslexic Kids".
+* Ubam, E., MITM, "UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens".
 
 ***
 
