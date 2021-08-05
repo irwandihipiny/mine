@@ -1,7 +1,6 @@
-My research interests are (but not limited to) Computer vision, Pattern classification and Animal Re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
+My research interests are (but not limited to) Computer vision, Pattern classification and Animal re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
-> Interested in pursuing an Msc or a PhD? Drop me an email.
-> at mhihipni at unimas dot my
+> Interested in pursuing an Msc or a PhD? Drop me an email at mhihipni at unimas dot my
 
 ### Current Postgraduates
 * Joseph, S., PhD, "Iban's Plaited Mat Motifs Recognition using Invariant Image Features"
@@ -40,7 +39,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 <details open> 
 <summary>Activity recognition using gaze</summary>
-I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions can be used to prime for location of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a>.<br>
+I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions also prime locations of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a>.<br>
 <a href="https://ibb.co/Byg06gW"><img src="https://i.ibb.co/YctHdtn/overview.png" height="80%" width="80%" alt="overview" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="85%" width="85%" alt="gaze2" border="0"></a>
 </details>
@@ -48,7 +47,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 ***
 
 ### Datasets
-PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas), captured at Pandan Beach, Lundu, Sarawak.[<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>]
+PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas), captured at Pandan Beach, Lundu.[<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>]
 
 ***
 
