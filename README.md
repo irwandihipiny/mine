@@ -35,7 +35,6 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 Hipiny, I., Ujir, H., Mujahid, A., and Yahya, N.K. (2018), Towards Automated Biometric
 Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>,
 <a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>,
-<a href="https://ibb.co/P1Q7WC1"><img src="https://i.ibb.co/c2LG8T2/Picture-1.png" alt="Picture-1" border="0"></a>
 </details>
 <br>
 
