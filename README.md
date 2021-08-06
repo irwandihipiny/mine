@@ -2,17 +2,14 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 
 > Interested in pursuing an Msc or a PhD? Drop me an email at mhihipni at unimas dot my
 
-### 
-* , ""
-* , "", - Co-sup w/ Dr Jacey-Lynn Minoi
+***
 
 ### Current Postgraduates
 
-| Name, Lvl           | Thesis title                                                                         | Notes                                   |
-|:--------------------|:-------------------------------------------------------------------------------------|:-----------------------------------------|
-| Joseph S., PhD      | `Iban's Plaited Mat Motifs Recognition using Invariant Image Features`               | On-going                                 |
-| Payandenick M., MSc | `Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach`   | Co-sup w/ Dr Jacey-Lynn Minoi, On-going  |
-
+| Name, Lvl           | Thesis title                                                                     | Notes                                   |
+|:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going                                 |
+| Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | Co-sup w/ Dr Jacey-Lynn Minoi, On-going  |
 
 ***
 
@@ -20,10 +17,10 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 
 | Name, Lvl           | Thesis title                                                                        | Notes                                   |
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
-| Peter M., MSc       | `Facial Expression Synthesis using Kernel Approach` | Co-sup w/ Dr Jacey-Lynn Minoi |
-| Joseph S., MAIT     | `Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis` | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Sulaiman M.K., MITM | `Requirement Analysis of e-Learning Platform for Dyslexic Kids` |  |
-| Ubam E., MITM       | `UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens` |  |
+| Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
+| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
+| Sulaiman M.K., MITM | Requirement Analysis of e-Learning Platform for Dyslexic Kids |  |
+| Ubam E., MITM       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens |  |
 
 ***
 
