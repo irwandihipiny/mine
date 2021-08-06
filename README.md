@@ -4,30 +4,10 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 
 ***
 
-### Current Postgraduates
-
-| Name, Lvl           | Thesis title                                                                     | Remarks                                  |
-|:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
-| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, Article will be published in a regular issue of IJEECS (p-ISSN: 2502-4752, e-ISSN: 2502-4760) |
-| Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | Co-sup w/ Dr Jacey-Lynn Minoi, On-going  |
-
-***
-
-### Graduated
-
-| Name, Lvl           | Thesis title                                                                        | Remarks                                 |
-|:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
-| Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
-| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Sulaiman M.K., MITM | Requirement Analysis of e-Learning Platform for Dyslexic Kids |  |
-| Ubam E., MITM       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | Conference paper accepted in IEEE ICEEI2021 |
-
-***
-
 ### Projects:
 <details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
-We developed a skill annotation method for tik-tok dance challenges using pose coding based on relative position of the subject's limbs.
+We developed a skill annotation method for tik-tok dance challenges using pose coding based on relative position of the subject's upper limbs. The article is under review for publication.
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
@@ -58,6 +38,26 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 <a href="https://ibb.co/Byg06gW"><img src="https://i.ibb.co/YctHdtn/overview.png" height="80%" width="80%" alt="overview" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="85%" width="85%" alt="gaze2" border="0"></a>
 </details>
+
+***
+
+### Current Postgraduates
+
+| Name, Lvl           | Thesis title                                                                     | Remarks                                  |
+|:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, An article will be published in a regular issue of IJEECS (p-ISSN: 2502-4752, e-ISSN: 2502-4760) |
+| Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ Dr Jacey-Lynn Minoi |
+
+***
+
+### Graduated
+
+| Name, Lvl           | Thesis title                                                                        | Remarks                                 |
+|:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
+| Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
+| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
+| Sulaiman M.K., MITM | Requirement Analysis of e-Learning Platform for Dyslexic Kids |  |
+| Ubam E., MITM       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | Elizabeth's conference paper is accepted in IEEE ICEEI2021 |
 
 ***
 
