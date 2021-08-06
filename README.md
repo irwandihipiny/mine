@@ -6,7 +6,7 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 
 ### Current Postgraduates
 
-| Name, Lvl           | Thesis title                                                                     | Notes                                   |
+| Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
 | Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going                                 |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | Co-sup w/ Dr Jacey-Lynn Minoi, On-going  |
@@ -15,7 +15,7 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 
 ### Graduated
 
-| Name, Lvl           | Thesis title                                                                        | Notes                                   |
+| Name, Lvl           | Thesis title                                                                        | Remarks                                 |
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
@@ -25,6 +25,13 @@ My research interests are (but not limited to) Computer vision, Pattern classifi
 ***
 
 ### Projects:
+<details open> 
+<summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
+We developed a skill annotation method for tik-tok dance challenges using pose coding based on relative position of the subject's limbs.
+<a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
+<a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
+</details>
+
 <details open> 
 <summary>MO-LEARN©: Kinaesthetic Learning (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>,
