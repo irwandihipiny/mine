@@ -11,7 +11,7 @@ We developed a skill annotation method for tik-tok dance challenges using pose c
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
-<br><br>
+<br>
 
 <details open> 
 <summary>MO-LEARN©: Kinaesthetic Learning (available for purchase)</summary>
@@ -41,6 +41,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 <a href="https://ibb.co/Byg06gW"><img src="https://i.ibb.co/YctHdtn/overview.png" height="80%" width="80%" alt="overview" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="85%" width="85%" alt="gaze2" border="0"></a>
 </details>
+<br>
 
 ***
 
