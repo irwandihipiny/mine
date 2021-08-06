@@ -11,18 +11,21 @@ We developed a skill annotation method for tik-tok dance challenges using pose c
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
+<br>
 
 <details open> 
 <summary>MO-LEARN©: Kinaesthetic Learning (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>,
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
+<br>
 
 <details open> 
 <summary>MO-WALL©: Interactive Kiosk with Gesture Recognition (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205">More details</a>
 </details>
 [![Demo CountPages alpha](https://j.gifs.com/Gv3y7Q.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
+<br>
 
 <details open> 
 <summary>Biometric identification of sea turtles (Chelonia mydas)</summary>
