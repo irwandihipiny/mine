@@ -1,4 +1,4 @@
-My research interests are (but not limited to) Computer vision, Pattern classification and Animal re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
+My research interests are (but not limited to) Computer vision, Pattern recognition and Animal re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
 > Interested in pursuing an Msc or a PhD? Drop me an email at mhihipni at unimas dot my
 
