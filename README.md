@@ -49,7 +49,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 
 | Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
-| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, An article will be published in a regular issue of IJEECS (p-ISSN: 2502-4752, e-ISSN: 2502-4760) |
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ Dr Jacey-Lynn Minoi |
 
 ***
