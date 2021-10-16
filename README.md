@@ -16,7 +16,7 @@ We developed a skill annotation method for tik-tok dance challenges using pose c
 <details open> 
 <summary>Recognition of Iban Mat Motifs using Adaptive Smoothing</summary>
 </details>
-[![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/source.mov)]()
+[![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
 <br><br>
 
 <details open> 
