@@ -14,9 +14,8 @@ We developed a skill annotation method for tik-tok dance challenges using pose c
 <br>
 
 <details open> 
-<summary>A Keypoint-based Pipeline Utilising Adaptive Smoothing for Iban Mat Motif Recognition</summary>
-<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>
-Dataset is available soon.
+<summary>A Keypoint-based Pipeline Utilising Adaptive Smoothing for Iban Mat Motif Recognition, a PhD student project</summary>
+<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, Dataset is available soon.
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
 <br><br>
