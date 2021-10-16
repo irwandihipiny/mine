@@ -14,6 +14,12 @@ We developed a skill annotation method for tik-tok dance challenges using pose c
 <br>
 
 <details open> 
+<summary>Recognition of Iban Mat Motifs using Adaptive Smoothing</summary>
+</details>
+[![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/source.mov)]()
+<br><br>
+
+<details open> 
 <summary>MO-LEARN©: Kinaesthetic Learning (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497">More details</a>,
 </details>
