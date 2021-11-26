@@ -69,7 +69,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
 | Sulaiman M.K., MITM | Requirement Analysis of e-Learning Platform for Dyslexic Kids |  |
-| Ubam E., MITM       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | Elizabeth's conference paper is accepted in IEEE ICEEI2021 |
+| Ubam E., MITM       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">IEEEICEEI2021</a> |
 
 ***
 
