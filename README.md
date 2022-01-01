@@ -58,7 +58,8 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
 | Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
 | Zakry K.A., MSc | Design of A Deep Learning Model with aAttention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | On-going |
-| Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ Dr Jacey-Lynn Minoi |
+| Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
+| Wong P., MSc | TBA | On-going, Co-sup w/ Prof Dr Wang Yin Chai |
 
 ***
 
