@@ -58,6 +58,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
 | Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
 | Zakry K.A., MSc | Design of A Deep Learning Model with aAttention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | On-going |
+| Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | On-going |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
 | Wong P., MSc | TBA | On-going, Co-sup w/ Prof Dr Wang Yin Chai |
 
@@ -69,8 +70,8 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Sulaiman M.K., MITM | Requirement Analysis of e-Learning Platform for Dyslexic Kids |  |
-| Ubam E., MITM       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">IEEEICEEI2021</a>].
+| Sulaiman M.K., MITM IT Project | Requirement Analysis of e-Learning Platform for Dyslexic Kids |  |
+| Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">IEEEICEEI2021</a>].
 
 ***
 
