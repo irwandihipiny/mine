@@ -60,7 +60,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Zakry K.A., MSc | Design of A Deep Learning Model with aAttention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | On-going |
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | On-going |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
-| Wong P., MSc | TBA | On-going, Co-sup w/ Prof Dr Wang Yin Chai |
+| Wong P., MSc | Application of Interactivity of Augmented Reality into A Space Room | On-going, Co-sup w/ Prof Dr Wang Yin Chai |
 
 ***
 
