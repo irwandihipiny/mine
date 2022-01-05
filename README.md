@@ -15,7 +15,7 @@ We developed a skill annotation method for tik-tok dance challenges using pose c
 
 <details open> 
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
-<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>[Old paper], Dataset will be available soon.
+<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>[1st journal article], 2nd article and full dataset will be published soon.
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
 <br><br>
@@ -56,9 +56,9 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 
 | Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
-| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | On-going, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
-| Zakry K.A., MSc | Design of A Deep Learning Model with aAttention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | On-going |
-| Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | On-going |
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | Sept 2017 - Now, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
+| Zakry K.A., MSc | Design of A Deep Learning Model with aAttention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - Now |
+| Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Jan 2022 - Now |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
 | Wong P., MSc | Application of Interactivity of Augmented Reality into A Space Room | On-going, Co-sup w/ Prof Dr Wang Yin Chai |
 
