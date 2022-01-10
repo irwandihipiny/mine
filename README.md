@@ -44,7 +44,7 @@ Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Appl
 
 <details open> 
 <summary>Activity recognition using gaze</summary>
-I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions also prime locations of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">IEEECITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">IEEEICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a>.<br>
+I worked on modeling activities as a record of fixated visual landmarks, i.e., Gaze regions (<a href="https://youtu.be/T9IAq90HNU0">See video</a>), [<a href="https://pdfs.semanticscholar.org/d19d/5c1bf21573c937165ffed0d73e57cbc03dc1.pdf">BRISTECHREPO12</a>]. The Gaze regions also prime locations of natural temporal cuts inside an egocentric video, [<a href="https://ieeexplore.ieee.org/document/8120635/">CITA15</a>], and their properties are indicative of the subject's task performance, [<a href="https://ieeexplore.ieee.org/document/7349836/">ICSIPA17a</a>]. My PhD (2014) thesis is available <a href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.682564">here</a>.<br>
 <a href="https://ibb.co/Byg06gW"><img src="https://i.ibb.co/YctHdtn/overview.png" height="80%" width="80%" alt="overview" border="0"></a>
 <a href="https://ibb.co/4YNJGyy"><img src="https://i.ibb.co/txC3tff/gaze2.png" height="85%" width="85%" alt="gaze2" border="0"></a>
 </details>
@@ -68,9 +68,9 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Name, Lvl           | Thesis title                                                                        | Remarks                                 |
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
-| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">IEEEICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
+| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">ICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
 | Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners |  |
-| Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">IEEEICEEI2021</a>].
+| Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">ICEEI2021</a>].
 
 ***
 
