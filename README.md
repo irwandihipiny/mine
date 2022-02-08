@@ -7,7 +7,7 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 ### Projects:
 <details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
-We developed a skill annotation method for tik-tok dance challenges using pose coding based on relative position of the subject's upper limbs. The article is under review for publication.
+We developed a skill annotation method for tik-tok dance challenges using pose coding based on relative position of the subject's upper limbs. The article is under review for publication. Dataset available here: https://ieee-dataport.org/documents/cdrgunimastiktok.
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
