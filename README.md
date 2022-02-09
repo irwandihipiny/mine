@@ -7,7 +7,7 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 ### Projects:
 <details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
-We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values. The article is currently under review for publication. Dataset available here: <a href="https://ieee-dataport.org/documents/cdrgunimastiktok">link</a>
+We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values. The article is currently under review for publication. Dataset is available here: <a href="https://ieee-dataport.org/documents/cdrgunimastiktok">link</a>
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
@@ -57,7 +57,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
 | Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | Sept 2017 - Now, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
-| Zakry K.A., MSc | Design of A Deep Learning Model with aAttention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - Now |
+| Zakry K.A., MSc | Design of A Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - Now |
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Jan 2022 - Now |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
 
@@ -69,7 +69,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">ICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners |  |
+| Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners | Submitted to AiIC2022  |
 | Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">ICEEI2021</a>].
 
 ***
