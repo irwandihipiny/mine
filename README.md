@@ -58,7 +58,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
 | Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | Sept 2017 - Now, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
 | Zakry K.A., MSc | Design of A Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - Now |
-| Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Jan 2022 - Now |
+| Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Feb 2022 - Now |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
 
 ***
