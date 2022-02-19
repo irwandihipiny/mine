@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 description: |+
+  * Serve as a reviewer for IJCDS (CiteScore = 0.4, SJR = 0.108, SNIP = 0.292)
   * Secured a MOHE-FRGS 2021 grant worth 135k MYR: Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in A Long-term Tracking Scenario.<br/>
   * A student paper titled “Classification of Digital Chess Pieces and Board Position using SIFT" has been accepted for oral presentation at IEEE ICSIPA 2021.<br/>
   * Technical Commitee Member for The 5th Int. Conference on Renewable Energy & Environmental Protection 2020. All papers published in IOP Conf. Series: Earth and Environmental Science 621(1).<br/>
