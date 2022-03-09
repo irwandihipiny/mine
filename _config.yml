@@ -2,6 +2,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+google_analytics: G-EK0VPEN8RR
+
 description: |+
   * Secured a MOHE-FRGS 2021 grant worth 135k MYR: Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in A Long-term Tracking Scenario.<br/>
   * A student paper titled “Classification of Digital Chess Pieces and Board Position using SIFT" has been accepted for oral presentation at IEEE ICSIPA 2021.<br/>
