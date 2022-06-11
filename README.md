@@ -17,6 +17,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
 <a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>[1st journal article], 2nd article is accepted for publication in IAES International Journal of Artificial Intelligence (IJ-AI), ISSN/e-ISSN 2089-4872/2252-8938. Full dataset will be published soon.
 </details>
+<br>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
 <br><br>
 
