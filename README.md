@@ -25,7 +25,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 <summary>AR-PHOTOBOOTH© available for purchase)</summary>
 <a href="https://web.facebook.com/irwandi.hipiny.52/posts/pfbid02QopKiRPkA1cnmUChtJoRsQBb8P6f8RxtdYJs7bFaXUZdPoNvfsJZbwJxyTzwkTe5l">More details</a>,
 </details>
-[![Demo CountPages alpha](https://media.giphy.com/media/kgfmemudspmq6XV0UV/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/139532623640497)
+[![Demo CountPages alpha](https://media.giphy.com/media/6jMM1SYOlnwBlyEVCC/giphy.gif)](https://web.facebook.com/irwandi.hipiny.52/posts/pfbid02QopKiRPkA1cnmUChtJoRsQBb8P6f8RxtdYJs7bFaXUZdPoNvfsJZbwJxyTzwkTe5l)
 <br><br>
 
 <details open> 
