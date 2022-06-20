@@ -15,7 +15,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 
 <details open> 
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
-<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>[1st journal article], 2nd article is accepted for publication in IAES International Journal of Artificial Intelligence (IJ-AI), ISSN/e-ISSN 2089-4872/2252-8938. Full dataset will be published soon.
+<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, 2nd article is accepted for publication in IAES International Journal of Artificial Intelligence (IJ-AI), ISSN/e-ISSN 2089-4872/2252-8938. Full dataset will be published soon.
 </details>
 <br>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
@@ -77,7 +77,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">ICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners | Presented in AiIC2022  |
+| Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners | Presented in AiIC2022, awaiting publication in IEEE Xplore  |
 | Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">ICEEI2021</a>]
 | Chen S.H., MITM IT Project | Automated Identification of High Risk Agencies for Audit Purposes: A Requirement Analysis Study |   |
 | Affandy N., MITM IT Project | Investigating the Adoption of Digital Payment through TAM: Analysis and Insights from Users in Sarawak, Malaysia |   |
