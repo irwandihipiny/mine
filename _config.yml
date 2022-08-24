@@ -2,8 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-google_analytics: G-EK0VPEN8RR
-
 description: |+
   * Joined a MOHE-FRGS 2022 grant worth 95k MYR as a co-PI: An Efficient Deep Transfer Learning Strategy for Accurate Masked Face Recognition<br/>
   * Served as a 2022 reviewer for International Journal of Computing and Digital Systems, CiteScore 2021: 1.1, e-ISSN 2210-142X<br/>
