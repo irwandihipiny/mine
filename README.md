@@ -77,7 +77,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">ICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners | Presented in AiIC2022, awaiting publication in IEEE Xplore  |
+| Sulaiman M.K., MITM IT Project | Empirical Insights on Gender-Based Computer Font Preference of Dyslexic Juvenile Learners | [<a href="https://ieeexplore.ieee.org/document/9914597">AiIC2022</a>]
 | Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">ICEEI2021</a>]
 | Chen S.H., MITM IT Project | Automated Identification of High Risk Agencies for Audit Purposes: A Requirement Analysis Study |   |
 | Affandy N., MITM IT Project | Investigating the Adoption of Digital Payment through TAM: Analysis and Insights from Users in Sarawak, Malaysia |   |
