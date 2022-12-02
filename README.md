@@ -7,7 +7,7 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 ### Projects:
 <details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
-We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values. The article is currently under review for publication. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset has been published in IAES International Journal of Artificial Intelligence (IJ-AI), https://ijai.iaescore.com/index.php/IJAI/article/view/21901 <br><br>
+We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values. The article is currently under review for publication. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset has been published <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/21901">link</a> <br><br>
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
@@ -15,7 +15,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 
 <details open> 
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
-<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, [<a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>].
+<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>.
 </details>
 <br>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
