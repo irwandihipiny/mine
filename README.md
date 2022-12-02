@@ -7,7 +7,7 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 ### Projects:
 <details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
-We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values. The article is currently under review for publication. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset is accepted for publication in IAES International Journal of Artificial Intelligence (IJ-AI), 12(2), ISSN/e-ISSN 2089-4872/2252-8938<br><br>
+We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values. The article is currently under review for publication. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset has been published in IAES International Journal of Artificial Intelligence (IJ-AI), 12(2), ISSN/e-ISSN 2089-4872/2252-8938<br><br>
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
@@ -15,7 +15,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 
 <details open> 
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
-<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, 2nd article is accepted for publication in IAES International Journal of Artificial Intelligence (IJ-AI), 12(2), ISSN/e-ISSN 2089-4872/2252-8938. Full dataset will be published soon.
+<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, 2nd article is published (in press) in IAES International Journal of Artificial Intelligence (IJ-AI), 12(2), ISSN/e-ISSN 2089-4872/2252-8938. Full dataset will be published soon.
 </details>
 <br>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
@@ -64,7 +64,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 
 | Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
-| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | Sept 2017 - Now, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>] |
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | Sept 2017 - Now, [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>], [<a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>] |
 | Zakry K.A., MSc | Design of A Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - Now |
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Feb 2022 - Now |
 | Payandenick M., MSc | Geometric 3D Face Recognition Using Non-linear Statistical Discriminant Approach | On-going, Co-sup w/ AP Dr Jacey-Lynn Minoi |
