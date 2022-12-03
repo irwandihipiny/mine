@@ -15,7 +15,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 
 <details open> 
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
-<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>.
+The first article, i.e., <a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, provides proofs that we can use local feature descriptors to distinguish between classic Iban mat motif classes. Silvia's 2nd article, i.e., <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>, introduces a classification framework employing adaptive smoothing to remove small and non-discriminative features.
 </details>
 <br>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
