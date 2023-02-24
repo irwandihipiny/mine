@@ -82,6 +82,8 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Ubam E., MITM IT Project       | UI/UX Analysis & Design for Mobile Banking Application aimed for Malaysian Senior Citizens | [<a href="https://ieeexplore.ieee.org/document/9611136">ICEEI2021</a>]
 | Chen S.H., MITM IT Project | Automated Identification of High Risk Agencies for Audit Purposes: A Requirement Analysis Study |   |
 | Affandy N., MITM IT Project | Investigating the Adoption of Digital Payment through TAM: Analysis and Insights from Users in Sarawak, Malaysia |   |
+| Anuar M.A.| Usability Evaluation of Cisco Webex as An Online Classroom Tool in Higher Education Settings | |
+| James Cook E.| Usability Testing of e-wallet Apps Amongst Senior Citizens in Sarawak ||
 
 ***
 
