@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 description: |+
-  {LATEST NEWS}
+  {LATEST NEWS}<br/>
   * Invited speaker at Seminar Kursi PUSAKA 2023 (23 - 24 Aug 2023), Raia Hotel & Convention Centre Kuching. Will be sharing our work progress on Agarwood resin segmentation using Deep Learning<br/>
   * TPC reviewer for 3ICT2023, Bahrain (http://iiict.uob.edu.bh/3ict23/).<br/>
   * Completed UNIMAS-CDRG grant (29k MYR): Automated Skill Determination from Egocentric Video, in May 2023<br/>
