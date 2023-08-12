@@ -5,6 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    div.scroll {
+        background-color: #fed9ff;
+        width: 600px;
+        height: 150px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        text-align: center;
+        padding: 20px;
+      }
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -21,7 +31,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p style="font-size:90%;">{{ site.description | default: site.github.project_tagline }}</p>
+        <div class="scroll">
+        <p style="font-size:80%;">{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
         
         </br>
         
