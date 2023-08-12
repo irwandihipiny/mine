@@ -60,7 +60,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 
 ***
 
-### Current Postgraduates
+### Current Postgraduates 
 
 | Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
