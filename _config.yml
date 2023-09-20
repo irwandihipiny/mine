@@ -3,7 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 description: |+
-  {LATEST NEWS}<br/>
+  #LATEST NEWS<br/>
+  * Served as a 2023 reviewer for Int. Journal of Systematic Innovation (IJoSI), CiteScore 2022: 0.6<br/>
   * Joined a UNIMAS PILOT 2023 grant worth 20k MYR as a co-PI: Enhancing Convolutional Neural Network with Adaptability in Dynamic Changes for Brainprint Authentication Modelling<br/>
   * Invited speaker at Seminar Kursi PUSAKA 2023 (23 - 24 Aug 2023), Raia Hotel & Convention Centre Kuching. Will be sharing our work progress on Agarwood resin segmentation using Deep Learning<br/>
   * TPC reviewer for 3ICT2023, Bahrain (http://iiict.uob.edu.bh/3ict23/).<br/>
