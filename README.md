@@ -6,6 +6,15 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 
 ### Projects:
 <details open> 
+<summary>Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in Long-term Tracking Scenario</summary>
+We work with Sarawak Forestry Corp. to develop an automated biometric re-identification system for nesting Green sea turtles. Instead of using plastic and metal tags to re-identify individuals, our solution utilises a motion-activated and downright-facing camera to capture images. We then train deep learning models to extract the ROIs and infer the individuals' ID. We have two articles currently under review for publications: i. Zakry, K.A., Soria, S., Hipiny, I., Ujir, H., & Hassan, R. (2024). Chelonia Mydas Detection and Image Extraction from Noisy Field Recordings, Under Review, and ii. Soria, S., Zakry, K.A., Hipiny, I., Ujir, H., & Hassan, R. (2024). An Instance Segmentation Method for Nesting Green Sea Turtle's Carapace using Mask R-CNN. Under Review. <br><br>
+<a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" alt="camera-rig" border="0" /></a>
+<a href="https://ibb.co/nPDjrb9"><img src="https://i.ibb.co/cYNQJ10/in-action.jpg" alt="in-action" border="0" /></a>
+<a href="https://ibb.co/Xp1MVcF"><img src="https://i.ibb.co/xGWd3xz/desktop.jpg" alt="desktop" border="0" /></a>
+</details>
+<br>
+
+<details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
 We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values to preserve order and tempo (of micro movements). The article is published: <a href="https://ijain.org/index.php/IJAIN/article/view/919">IJAIN2023</a>, in International Journal of Advances in Intelligent Informatics 9(1), pp. 96-107, 2023. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset has also been published: <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/21901">IJ-AI2023</a>. <br><br>
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
