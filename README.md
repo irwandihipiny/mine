@@ -77,6 +77,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Zakry K.A., MSc | Design of A Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - Now, 1st paper accepted in IJ-AI (in press) |
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Feb 2022 - Now |
 | Leghari I., PhD | Artificial Intelligence Approaches for Identification and Evaluation of Intellectual Disabled Down Syndrome People of Pakistan: A Model Based Study | Oct 2022 - Now, Co-sup w/ AP Dr Hamimah |
+| Ghazvini A., PhD| Advancing Visual Recognition with Minimal Supervision through Generative Adversarial and Few-shot Learning | Dec 2023 - Now |
 
 ***
 
