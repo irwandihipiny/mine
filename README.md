@@ -98,7 +98,7 @@ UNIMAS-CDRG-TIKTOK, a dataset containing 240 ranked videos (20 x 12 label catego
 ***
 
 ### Miscellaneous
-1. [Freeglut - I use this instead of GLUT in my TMT2033 Computer Graphics' class](http://freeglut.sourceforge.net/)
+1. [Freeglut - I use this instead of GLUT in my Computer Graphics' class](http://freeglut.sourceforge.net/)
 2. [MinGW](http://mingw-w64.org/doku.php)
 3. [NeHe - The best resource site for OpenGL](http://nehe.gamedev.net/)
 4. [Colah's excellent LSTM tutorial](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
