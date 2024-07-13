@@ -7,7 +7,7 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 ### Projects:
 <details open> 
 <summary>Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in Long-term Tracking Scenario</summary>
-We work with Sarawak Forestry Corp. to develop an automated biometric re-identification prototype for nesting Green sea turtles. Instead of using plastic/metal tags to re-identify individuals, our solution utilises a motion-activated and downright-facing camera to capture images of nesting female sea turtles. We trained deep learning models to extract the ROIs and infer individuals' ID. We have published two articles: i. <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/23748">IJAI2024</a>, in International Journal of Artificial Intelligence, 13(2), pp. 2354-2363, and ii. <a href="https://journals.uob.edu.bh/handle/123456789/5318">IJCDS2024</a>, in International Journal of Computing and Digital Systems, 16(1), pp. 201-211. A third and final article is expected to be published in 2025. <br><br>
+We work with Sarawak Forestry Corp. to develop an automated biometric re-identification prototype for nesting green sea turtles. Instead of using plastic/metal tags to re-identify individuals, our solution utilises a motion-activated, downright-facing camera to capture images of nesting female sea turtles. We trained deep learning models to extract the ROIs and infer individuals' ID. We have published two articles: i. <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/23748">IJAI2024</a>, in International Journal of Artificial Intelligence, 13(2), pp. 2354-2363, and ii. <a href="https://journals.uob.edu.bh/handle/123456789/5318">IJCDS2024</a>, in International Journal of Computing and Digital Systems, 16(1), pp. 201-211. A third and final article is expected to be published in 2025. <br><br>
 <a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" alt="camera-rig" border="0" /></a>
 <a href="https://ibb.co/nPDjrb9"><img src="https://i.ibb.co/cYNQJ10/in-action.jpg" alt="in-action" border="0" /></a>
 <a href="https://ibb.co/Xp1MVcF"><img src="https://i.ibb.co/xGWd3xz/desktop.jpg" alt="desktop" border="0" /></a>
@@ -16,7 +16,7 @@ We work with Sarawak Forestry Corp. to develop an automated biometric re-identif
 
 <details open> 
 <summary>Who Danced Better? Ranked Dance Video Dataset and Pairwise Skill Annotation Method</summary>
-We developed a pairwise skill annotation method for tik-tok dance challenges. The method encodes the subject's consecutive 2D poses into String values to preserve order and tempo (of micro movements). The article is published: <a href="https://ijain.org/index.php/IJAIN/article/view/919">IJAIN2023</a>, in International Journal of Advances in Intelligent Informatics 9(1), pp. 96-107, 2023. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset has also been published: <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/21901">IJ-AI2023</a>, in International Journal of Artificial Intelligence 12(2), pp. 602-609, 2023. <br><br>
+We developed a pairwise skill annotation method for TikTok dance challenges. The method encodes the subject's consecutive 2D poses into string values to preserve the order and tempo (of micro movements). The article is published: <a href="https://ijain.org/index.php/IJAIN/article/view/919">IJAIN2023</a>, in International Journal of Advances in Intelligent Informatics 9(1), pp. 96-107, 2023. Dataset is available here: <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>. A 2nd article utilising the same dataset has also been published: <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/21901">IJ-AI2023</a>, in International Journal of Artificial Intelligence 12(2), pp. 602-609, 2023. <br><br>
 <a href="https://ibb.co/WWLtwq4"><img src="https://i.ibb.co/SXzr8W4/Screenshot-2021-08-06-at-4-25-55-PM.png" alt="Screenshot-2021-08-06-at-4-25-55-PM" border="0"></a>
 <a href="https://ibb.co/k8YDM8z"><img src="https://i.ibb.co/bBpv7BY/Screenshot-2021-08-06-at-4-26-14-PM.png" alt="Screenshot-2021-08-06-at-4-26-14-PM" border="0"></a>
 </details>
@@ -24,7 +24,7 @@ We developed a pairwise skill annotation method for tik-tok dance challenges. Th
 
 <details open> 
 <summary>A Novel Keypoint-based Recognition Pipeline for Iban Mat Motifs utilising Adaptive Smoothing, a PhD student project</summary>
-The first article, i.e., <a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, provides proofs that we can use local feature descriptors to distinguish between classic Iban mat motif classes. Silvia's 2nd article, i.e., <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>, introduces a classification framework that utilise adaptive smoothing to exclude small and non-discriminative features from affecting the classification's result.
+The first article, i.e., <a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>, provides evidence that we can use local feature descriptors to distinguish between classic Iban mat motif classes. Silvia's 2nd article, i.e., <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>, introduces a classification framework that utilise adaptive smoothing to exclude small and non-discriminative features from affecting the classification results.
 </details>
 <br>
 [![Demo CountPages alpha](https://media.giphy.com/media/rjzyfbji7ljYxRW4qY/giphy.gif)]()
@@ -90,7 +90,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 ***
 
 ### Datasets
-My Kaggle datasets <a href="https://www.kaggle.com/irwandihipiny/datasets">link</a>
+My Kaggle datasets <a href="https://www.kaggle.com/irwandihipiny/datasets">link</a>.
 
 ***
 
