@@ -54,8 +54,7 @@ The first article, i.e., <a href="http://ijeecs.iaescore.com/index.php/IJEECS/ar
 <details open> 
 <summary>Biometric identification of sea turtles (Chelonia mydas)</summary>
 Hipiny, I., Ujir, H., Mujahid, A., and Yahya, N.K. (2018), Towards Automated Biometric
-Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>,
-<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">PANDAN-CHELOMY Dataset</a>,
+Identification of Sea Turtles (Chelonia mydas), Journal of ICT Research and Applications, 12(3), 256-266, doi:10.5614/itbj.ict.res.appl.2018.12.3.4, <a href="http://journals.itb.ac.id/index.php/jictra/issue/view/783">Link</a>
 </details>
 <br>
 
