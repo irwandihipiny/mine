@@ -91,9 +91,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 ***
 
 ### Datasets
-PANDAN-CHELOMY, a dataset containing 140 aerial (70 raw + 70 rotated upright) images of sea turtles (Chelonia mydas), captured at Pandan Beach, Lundu.[<a href="https://www.researchgate.net/publication/349138199_PANDANCHELOMYzip">link</a>]
-
-UNIMAS-CDRG-TIKTOK, a dataset containing 240 ranked videos (20 x 12 label categories). <a href="https://www.kaggle.com/irwandihipiny/cdrg-unimas-tiktok">link</a>
+My Kaggle datasets <a href="https://www.kaggle.com/irwandihipiny/datasets">link</a>
 
 ***
 
