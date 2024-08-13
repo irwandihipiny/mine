@@ -72,8 +72,6 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 
 | Name, Lvl           | Thesis title                                                                     | Remarks                                  |
 |:--------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
-| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features             | Sept 2017 - Jan 2024, Awaiting senate endorsement [<a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/25755">IJEECS2021</a>], [<a href="https://ijai.iaescore.com/index.php/IJAI/article/view/22078">IJ-AI2023</a>] |
-| Zakry K.A., MSc | Design of A Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Oct 2021 - June 2024, Awaiting senate endorsement, [<a href="https://ijai.iaescore.com/index.php/IJAI/article/view/23748">IJAI2024</a>] |
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Feb 2022 - Now, [<a href="https://journals.uob.edu.bh/handle/123456789/5318">IJCDS2024</a>] |
 | Leghari I., PhD | Artificial Intelligence Approaches for Identification and Evaluation of Intellectual Disabled Down Syndrome People of Pakistan: A Model Based Study | Oct 2022 - Now, Co-sup w/ AP Dr Hamimah |
 | Ghazvini A., PhD | Preserving Visual Integrity in Content-Aware Image Retargeting | Apr 2024 - Now |
@@ -85,7 +83,9 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Name, Lvl           | Thesis title                                                                        | Remarks                                 |
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
-| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | [<a href="https://ieeexplore.ieee.org/document/8120669/">ICSIPA17b</a>], Now at Dept. of Minerals and Geoscience, Malaysia. |
+| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | Now at Dept. of Minerals and Geoscience, Malaysia. |
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features | Awaiting senate endorsement. |
+| Zakry K.A., MSc     | Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Awaiting senate endorsement. |
 
 ***
 
