@@ -83,8 +83,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Name, Lvl           | Thesis title                                                                        | Remarks                                 |
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
-| Joseph S., MAIT     | Unsupervised Classification of Intrusive Igneous Rock Thin Section Images using Edge Detection and Colour Analysis | Now at Dept. of Minerals and Geoscience, Malaysia. |
-| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features | Awaiting senate endorsement. |
+| Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features | Now at MOH Malaysia|
 | Zakry K.A., MSc     | Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | Awaiting senate endorsement. |
 
 ***
