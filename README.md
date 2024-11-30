@@ -9,8 +9,8 @@ My research interests are (but not limited to) Computer vision, Pattern recognit
 <summary>Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in Long-term Tracking Scenario</summary>
 We work with Sarawak Forestry Corp. to develop an automated biometric re-identification prototype for nesting green sea turtles. Instead of using plastic/metal tags to re-identify individuals, our solution utilises a motion-activated, downright-facing camera to capture images of nesting female sea turtles. We trained deep learning models to extract the ROIs and infer individuals' ID. We have published two articles: i. <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/23748">IJAI2024</a>, in International Journal of Artificial Intelligence, 13(2), pp. 2354-2363, and ii. <a href="https://journals.uob.edu.bh/handle/123456789/5318">IJCDS2024</a>, in International Journal of Computing and Digital Systems, 16(1), pp. 201-211. A third and final article is currently under revision at a journal and expected to be published in 2025. <br><br>
 <a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" alt="camera-rig" border="0" /></a>
-[![Demo CountPages alpha](https://media.giphy.com/media/jBOyKy9o9jlt6C3M7u/giphy.gif)](https://youtu.be/aLRbj9gdFEg?si=jPZgjr2jeK0ReCeH)
 <a href="https://ibb.co/Xp1MVcF"><img src="https://i.ibb.co/xGWd3xz/desktop.jpg" alt="desktop" border="0" /></a>
+[![Demo CountPages alpha](https://media.giphy.com/media/jBOyKy9o9jlt6C3M7u/giphy.gif)]()
 </details>
 <br>
 
