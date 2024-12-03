@@ -11,7 +11,6 @@ We work with Sarawak Forestry Corp. to develop an automated biometric re-identif
 <a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" alt="camera-rig" border="0" /></a>
 <a href="https://ibb.co/Xp1MVcF"><img src="https://i.ibb.co/xGWd3xz/desktop.jpg" alt="desktop" border="0" /></a>
 </details>
-<br>
 [![Demo CountPages alpha](https://media.giphy.com/media/jBOyKy9o9jlt6C3M7u/giphy.gif)]()
 <br><br>
 
