@@ -75,6 +75,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Feb 2022 - Now, [<a href="https://journals.uob.edu.bh/handle/123456789/5318">IJCDS2024</a>] |
 | Leghari I., PhD | Artificial Intelligence Approaches for Identification and Evaluation of Intellectual Disabled Down Syndrome People of Pakistan: A Model Based Study | Oct 2022 - Now, Co-sup w/ AP Dr Hamimah |
 | Ghazvini A., PhD | Preserving Visual Integrity in Content-Aware Image Retargeting | Apr 2024 - Now |
+| Ohueri E., MSc | A User-Centred UI/UX Framework for Improving the Mobile Health Application Experience Among Elderly Users in Malaysia | Jul 2025 - Now |
 
 ***
 
