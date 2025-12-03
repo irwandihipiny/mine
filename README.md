@@ -75,7 +75,8 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 | Soria S., MSc | Automatic segmentation of Region-of-Interest (ROI) in nesting Green sea turtle videos | Feb 2022 - Now, [<a href="https://journals.uob.edu.bh/handle/123456789/5318">IJCDS2024</a>] |
 | Leghari I., PhD | Artificial Intelligence Approaches for Identification and Evaluation of Intellectual Disabled Down Syndrome People of Pakistan: A Model Based Study | Oct 2022 - Now, Co-sup w/ AP Dr Hamimah |
 | Ghazvini A., PhD | Preserving Visual Integrity in Content-Aware Image Retargeting | Apr 2024 - Now |
-| Ohueri E., MSc | A User-Centred UI/UX Framework for Improving the Mobile Health Application Experience Among Elderly Users in Malaysia | Jul 2025 - Now |
+| Khazsrulhazsmie M., PhD | Predictive Analytics In Sijil Peperiksaan Malaysia (SPM): Data Mining Approach For Support And Identify At-Risk Student In Layak Sijil SPM | Sept 2025 - Now |
+| Ohueri E., MSc | A User-Centred UI/UX Framework for Improving the Mobile Health Application Experience Among Elderly Users in Malaysia | Sept 2025 - Now |
 
 ***
 
@@ -85,7 +86,7 @@ I worked on modeling activities as a record of fixated visual landmarks, i.e., G
 |:--------------------|:------------------------------------------------------------------------------------|:----------------------------------------|
 | Peter M., MSc       | Facial Expression Synthesis using Kernel Approach | Co-sup w/ Dr Jacey-Lynn Minoi |
 | Joseph S., PhD      | Iban's Plaited Mat Motifs Recognition using Invariant Image Features | <a href="https://ir.unimas.my/id/eprint/45964/">Thesis</a>, Now at MOH Malaysia|
-| Zakry K.A., MSc     | Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | <a href="https://ir.unimas.my/id/eprint/46057/">Thesis</a> |
+| Zakry K.A., MSc     | Deep Learning Model with Attention Mechanism for Biometric re-ID of Green Sea Turtles in Long-term Tracking Scenario | <a href="https://ir.unimas.my/id/eprint/46057/">Thesis</a>, Now at PPPU, UNIMAS |
 
 ***
 
