@@ -1,6 +1,6 @@
 My research interests are (but not limited to) Computer vision, Pattern recognition, UI/UX and Animal re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
 
-> Interested in pursuing an Msc or a PhD? Drop me an email at mhihipni at unimas dot my
+> Interested in pursuing an MSc or a PhD? Drop me an email at irwandi at icats dot edu dot my
 
 ***
 
