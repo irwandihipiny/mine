@@ -1,4 +1,6 @@
-My research interests are (but not limited to) Computer vision, Pattern recognition, UI/UX and Animal re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>. My full <a href="https://canva.link/gltiqttdwgjkqj1>CV</a>.
+My research interests are (but not limited to) Computer vision, Pattern recognition, UI/UX and Animal re-ID. I also <a href="https://github.com/irwandihipiny/mine/wiki/doodles">doodles</a>.
+
+My full <a href="https://canva.link/gltiqttdwgjkqj1">CV</a>.
 
 > Interested in pursuing an MSc or a PhD? Drop me an email at irwandi at icats dot edu dot my
 
