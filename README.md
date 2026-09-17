@@ -8,6 +8,14 @@ My full <a href="https://canva.link/gltiqttdwgjkqj1">CV</a>.
 
 ### Projects:
 <details open> 
+<summary>Preserving Visual Integrity with Semantic-Aware Seam Carving in Content-Aware Image Retargeting, a PhD student project</summary>
+Arash works on the problem of image retargeting to fit a 2D image onto multiple displays. This involves removing "seams"—connected sets of low-importance pixels identified by an image energy map—and protecting semantically important objects using object masking. Arash's first article has been accepted and will be published in <a href="https://www.nature.com/srep/">Nature's Scientific Report</a>.
+<a href="https://ibb.co/20vmTXpt"><img src="https://i.ibb.co/GfWBqgr2/Heavenly-75-seams.png" alt="Heavenly-75-seams" border="0"></a>
+<a href="https://ibb.co/fJw5MNS"><img src="https://i.ibb.co/s7YGj1P/Heavenly-mimap.png" alt="Heavenly-mimap" border="0"></a>
+</details>
+<br><br>
+
+<details open> 
 <summary>Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in Long-term Tracking Scenario</summary>
 We work with Sarawak Forestry Corp. to develop an automated biometric re-identification prototype for nesting green sea turtles. Instead of using plastic/metal tags to re-identify individuals, our solution utilises a motion-activated, downright-facing camera to capture images of nesting female sea turtles. We trained deep learning models to extract the ROIs and infer individuals' ID. We have published three articles: i. <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/23748">IJAI2024</a>, in International Journal of Artificial Intelligence, 13(2), pp. 2354-2363, ii. <a href="https://iiict.uob.edu.bh/IJCDS/papers/IJCDS160116_1570966207.pdf">IJCDS2024</a>, in International Journal of Computing and Digital Systems, 16(1), pp. 201-211, and iii. <a href="https://www.nature.com/articles/s41597-024-04336-3">SCI.DATA2024</a>, in Nature's Scientific Data, 11, 1441 (2024). <br><br>
 <a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" alt="camera-rig" border="0" /></a>
