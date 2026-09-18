@@ -9,7 +9,7 @@ My full <a href="https://canva.link/gltiqttdwgjkqj1">CV</a>.
 ### Projects:
 <details open> 
 <summary>Preserving Visual Integrity with Semantic-Aware Seam Carving in Content-Aware Image Retargeting, a PhD student project</summary>
-Arash works on the problem of image retargeting to fit a 2D image onto multiple displays. This involves removing "seams", i.e., connected sets of low-importance pixels identified by an image energy map, and protecting semantically important objects via object masking. Arash's first article has been accepted and will be published in <a href="https://www.nature.com/srep/">Nature's Scientific Report</a>.
+Arash works on the problem of image retargeting to fit a 2D image onto multiple displays. This involves the removal of "seams", i.e., connected sets of low-importance pixels identified based on an image energy map, and protecting semantically important objects via object masking. Arash's first article has been published: <a href="https://www.nature.com/articles/s41598-026-72081-1">SCI.REP2026</a>.
 <a href="https://ibb.co/20vmTXpt"><img src="https://i.ibb.co/GfWBqgr2/Heavenly-75-seams.png" alt="Heavenly-75-seams" border="0"></a>
 <a href="https://ibb.co/fJw5MNS"><img src="https://i.ibb.co/s7YGj1P/Heavenly-mimap.png" alt="Heavenly-mimap" border="0"></a>
 </details>
