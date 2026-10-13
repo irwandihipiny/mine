@@ -8,7 +8,7 @@ My full <a href="https://canva.link/gltiqttdwgjkqj1">CV</a>.
 
 ### Projects:
 <details open> 
-<summary>Preserving Visual Integrity with Semantic-Aware Seam Carving in Content-Aware Image Retargeting, a PhD student projec</summary>
+<summary>Preserving Visual Integrity with Semantic-Aware Seam Carving in Content-Aware Image Retargeting, a PhD student project</summary>
 Arash works on the problem of image retargeting to fit a 2D image onto multiple displays. This involves the removal of "seams", i.e., connected sets of low-importance pixels identified based on an image energy map, and protecting semantically important objects via object masking. Arash's first article detailing his dynamic multi-operator approach has been published: <a href="https://www.nature.com/articles/s41598-026-72081-1">SCI.REP2026</a> in Springer Nature's Scientific Report. <br><br>
 <a href="https://ibb.co/20vmTXpt"><img src="https://i.ibb.co/GfWBqgr2/Heavenly-75-seams.png" alt="Heavenly-75-seams" border="0"></a>
 <a href="https://ibb.co/fJw5MNS"><img src="https://i.ibb.co/s7YGj1P/Heavenly-mimap.png" alt="Heavenly-mimap" border="0"></a>
@@ -17,7 +17,8 @@ Arash works on the problem of image retargeting to fit a 2D image onto multiple 
 
 <details open> 
 <summary>Motion and Gesture-controlled Interface for Interactive Musical Installation in Public Spaces: Development and Usability Evaluation</summary>
-We developed an interactive musical software that uses motion and gesture detection as interface inputs. The prototype was the outcome of a Petronas P. Ramlee Chair research grant that we obtained in 2025. A research paper was published in the International Journal of Advanced Computer Science and Applications, 17(10), in which we presented our method for "hit" event detection, specifically, when a subject's hands make contact with specific body parts. The successful detection of a "hit" event triggers the playback of a musical note, allowing the user to turn their body into a musical instrument.  
+We developed an interactive musical prototype that uses motion and gesture detection as interface inputs. The prototype is an outcome of a 2025 Petronas P. Ramlee Chair research grant, together with a paper published in  <a href="https://thesai.org/Publications/IJACSA">IJACSA2026</a>, 17(10), where we presented our method for "hit" event detection, i.e., when a subject's hands make contact with a specific body part to trigger the playback of a musical note.
+  
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/RILzRS1CirjZEjn7IZ/giphy.gif)]
 <br><br>
