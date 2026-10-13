@@ -25,8 +25,8 @@ We developed an interactive musical software that uses motion and gesture detect
 <details open> 
 <summary>Design of A Deep Learning Model with Attention Mechanism for Biometric Re-identification of Green Sea Turtles in Long-term Tracking Scenario</summary>
 We work with Sarawak Forestry Corp. to develop an automated biometric re-identification prototype for nesting green sea turtles. Instead of using plastic/metal tags to re-identify individuals, our solution utilises a motion-activated, downright-facing camera to capture images of nesting female sea turtles. We trained deep learning models to extract the ROIs and infer individuals' ID. We have published three articles: i. <a href="https://ijai.iaescore.com/index.php/IJAI/article/view/23748">IJAI2024</a>, in International Journal of Artificial Intelligence, 13(2), pp. 2354-2363, ii. <a href="https://iiict.uob.edu.bh/IJCDS/papers/IJCDS160116_1570966207.pdf">IJCDS2024</a>, in International Journal of Computing and Digital Systems, 16(1), pp. 201-211, and iii. <a href="https://www.nature.com/articles/s41597-024-04336-3">SCI.DATA2024</a>, in Springer Nature's Scientific Data, 11, 1441 (2024). <br><br>
-<a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" alt="camera-rig" border="0" /></a>
-<a href="https://ibb.co/Xp1MVcF"><img src="https://i.ibb.co/xGWd3xz/desktop.jpg" alt="desktop" border="0" /></a>
+<a href="https://ibb.co/4gm2CyZ"><img src="https://i.ibb.co/M52fKTD/camera-rig.jpg" height="85%" width="85%" alt="camera-rig" border="0" /></a>
+<a href="https://ibb.co/Xp1MVcF"><img src="https://i.ibb.co/xGWd3xz/desktop.jpg" height="85%" width="85%" alt="desktop" border="0" /></a>
 </details>
 [![Demo CountPages alpha](https://media.giphy.com/media/jBOyKy9o9jlt6C3M7u/giphy.gif)]()
 <br><br>
@@ -65,7 +65,7 @@ The first article, i.e., <a href="http://ijeecs.iaescore.com/index.php/IJEECS/ar
 <summary>MO-WALL©: Interactive Kiosk with Gesture Recognition (available for purchase)</summary>
 <a href="https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205">More details</a>
 </details>
-[![Demo CountPages alpha](https://j.gifs.com/Gv3y7Q.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
+[![Demo CountPages alpha](https://media.giphy.com/media/FCbO1TWAZa5RbabFeo/giphy.gif)](https://www.facebook.com/irwandi.hipiny.52/posts/169078874019205)
 <br><br>
 
 <details open> 
