@@ -17,9 +17,9 @@ Arash works on the problem of image retargeting to fit a 2D image onto multiple 
 
 <details open> 
 <summary>Motion and Gesture-controlled Interface for Interactive Musical Installation in Public Spaces: Development and Usability Evaluation</summary>
-We developed interactive music software that uses motion and gesture detection as interface inputs. The prototype was the outcome of a Petronas P. Ramlee Chair research grant that we obtained in 2025. A research paper was published in the International Journal of Advanced Computer Science and Applications, 17(10), in which we presented our method for "hit" event detection, specifically, when a subject's hands make contact with specific body parts. The successful detection of a "hit" event triggers the playback of a musical note, allowing the user to turn their body into a musical instrument. <br><br>
-<a href="https://ibb.co/fsgr1gk"><img src="https://i.ibb.co/kt7qH74/Screenshot-2026-10-13-at-2-52-02-PM.png" alt="Screenshot-2026-10-13-at-2-52-02-PM" border="0"></a>
+We developed an interactive musical software that uses motion and gesture detection as interface inputs. The prototype was the outcome of a Petronas P. Ramlee Chair research grant that we obtained in 2025. A research paper was published in the International Journal of Advanced Computer Science and Applications, 17(10), in which we presented our method for "hit" event detection, specifically, when a subject's hands make contact with specific body parts. The successful detection of a "hit" event triggers the playback of a musical note, allowing the user to turn their body into a musical instrument.  
 </details>
+[![Demo CountPages alpha](https://media.giphy.com/media/RILzRS1CirjZEjn7IZ/giphy.gif)]
 <br><br>
 
 <details open> 
